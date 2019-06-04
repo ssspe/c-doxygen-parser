@@ -4,7 +4,7 @@ Generic Doxygen XML parser for C to easily allow for custom output.
 Creates a list of python objects from Doxygen XML output for any C file containing:
 
 * Structures
-           * Structure Name
+  * Structure Name
            * Structure Definitions
                       * Structure Definition Type
                       * Structure Definition Name
