@@ -1,5 +1,9 @@
 # c-doxygen-parser
 Generic Doxygen XML parser for C to easily allow for custom output.
+To run simply type the command
+```
+python DoxygenXMLParser.py "base_file_path" "file.xml"
+```
 
 Creates a list of python objects from Doxygen XML output for any C file containing:
 
